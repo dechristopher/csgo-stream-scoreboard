@@ -1,0 +1,17 @@
+c:\users\drew\documents\visual studio 2013\Projects\CSGO-GSInt\CSGO-GSInt\obj\Debug\CSGO-GSInt.csprojResolveAssemblyReference.cache
+c:\users\drew\documents\visual studio 2013\Projects\CSGO-GSInt\CSGO-GSInt\obj\Debug\CSGO_GSInt.Properties.Resources.resources
+c:\users\drew\documents\visual studio 2013\Projects\CSGO-GSInt\CSGO-GSInt\obj\Debug\CSGO-GSInt.csproj.GenerateResource.Cache
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\CSGO-GSInt\CSGO-GSInt\obj\Debug\CSGO_GSInt.UI.resources
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\CSGO-GSInt\CSGO-GSInt\bin\Debug\CSGSI.dll
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\CSGO-GSInt\CSGO-GSInt\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\CSGO-GSInt\CSGO-GSInt\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\CSGO-GSInt\CSGO-GSInt\bin\Debug\protobuf-net.dll
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\CSGO-GSInt\CSGO-GSInt\bin\Debug\SteamKit2.dll
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\CSGO-GSInt\CSGO-GSInt\bin\Debug\protobuf-net.pdb
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\CSGO-GSInt\CSGO-GSInt\bin\Debug\protobuf-net.xml
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\CSGO-GSInt\CSGO-GSInt\bin\Debug\SteamKit2.xml
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\CSGO-GSInt\CSGO-GSInt\bin\Debug\CSGO-Stream-Scoreboard.exe.config
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\CSGO-GSInt\CSGO-GSInt\bin\Debug\CSGO-Stream-Scoreboard.exe
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\CSGO-GSInt\CSGO-GSInt\bin\Debug\CSGO-Stream-Scoreboard.pdb
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\CSGO-GSInt\CSGO-GSInt\obj\Debug\CSGO-Stream-Scoreboard.exe
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\CSGO-GSInt\CSGO-GSInt\obj\Debug\CSGO-Stream-Scoreboard.pdb

@@ -1,0 +1,17 @@
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\CSGO-Stream-Scoreboard\CSGO-Stream-Scoreboard\bin\Debug\CSGO-Stream-Scoreboard.exe.config
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\CSGO-Stream-Scoreboard\CSGO-Stream-Scoreboard\obj\Debug\CSGO-Stream-Scoreboard.exe
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\CSGO-Stream-Scoreboard\CSGO-Stream-Scoreboard\obj\Debug\CSGO-Stream-Scoreboard.pdb
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\CSGO-Stream-Scoreboard\CSGO-Stream-Scoreboard\bin\Debug\CSGO-Stream-Scoreboard.exe
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\CSGO-Stream-Scoreboard\CSGO-Stream-Scoreboard\bin\Debug\CSGO-Stream-Scoreboard.pdb
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\CSGO-Stream-Scoreboard\CSGO-Stream-Scoreboard\bin\Debug\CSGSI.dll
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\CSGO-Stream-Scoreboard\CSGO-Stream-Scoreboard\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\CSGO-Stream-Scoreboard\CSGO-Stream-Scoreboard\bin\Debug\protobuf-net.dll
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\CSGO-Stream-Scoreboard\CSGO-Stream-Scoreboard\bin\Debug\SteamKit2.dll
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\CSGO-Stream-Scoreboard\CSGO-Stream-Scoreboard\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\CSGO-Stream-Scoreboard\CSGO-Stream-Scoreboard\bin\Debug\protobuf-net.pdb
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\CSGO-Stream-Scoreboard\CSGO-Stream-Scoreboard\bin\Debug\protobuf-net.xml
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\CSGO-Stream-Scoreboard\CSGO-Stream-Scoreboard\bin\Debug\SteamKit2.xml
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\CSGO-Stream-Scoreboard\CSGO-Stream-Scoreboard\obj\Debug\CSGO-Stream-Scoreboard.csprojResolveAssemblyReference.cache
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\CSGO-Stream-Scoreboard\CSGO-Stream-Scoreboard\obj\Debug\CSGOSS.UI.resources
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\CSGO-Stream-Scoreboard\CSGO-Stream-Scoreboard\obj\Debug\CSGOSS.Properties.Resources.resources
+C:\Users\Drew\Documents\Visual Studio 2013\Projects\CSGO-Stream-Scoreboard\CSGO-Stream-Scoreboard\obj\Debug\CSGO-Stream-Scoreboard.csproj.GenerateResource.Cache
