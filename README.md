@@ -2,7 +2,7 @@
 ####About:
 A live updating scoreboard for CS:GO streamers to show onscreen that shows kills, deaths, and assists. Uses CS:GO's built-in Game-state Integration. The program is highly customizable and extensible with the proper finesse and patience.
 
-![Alt text](https://github.com/dechristopher/csgo-stream-scoreboard/res/scoreboard.png)
+![Alt text](https://github.com/dechristopher/csgo-stream-scoreboard/blob/master/res/scoreboard.png)
 
 As seen in the picture above, the format of the displayed stats follows this diagram:
 ````
