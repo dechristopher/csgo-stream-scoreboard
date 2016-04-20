@@ -16,7 +16,7 @@ Compiled binaries can be found in the releases section above or through this lin
 - Either compile or download a pre-compiled release of the program.
 - (If downloaded, extract the executable and the settings file to a folder anywhere on your computer)
 - Take the gamestate\_integration\_kda.cfg file either from this repository or the downloaded release.zip and place it in your CS:GO install folder in the /csgo/cfg folder (**DON'T** modify this file unless you know what you're doing)
-- Find your SteamID 32 from http://steamid.co or wherever else and paste it into your settings.txt in place of <SteamID>
+- Find your SteamID 32 from http://steamid.co or wherever else and paste it into your settings.txt in place of \<SteamID\>
 - Run the program and you should get no error messages. Hop ingame for some testing.
 - If improperly configured, the program will tell you what's wrong in a pop-up window. Make sure your settings.txt follows the format as shown below.
 
