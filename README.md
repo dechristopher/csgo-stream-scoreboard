@@ -35,7 +35,7 @@ All values in the file are separated by spaces.
 For help with the RGB values, visit [THIS SITE](http://www.rapidtables.com/web/color/RGB_Color.htm)
 
 ####FAQ:
-- Can I use this for my <insert whatever here>? **YES**
+- Can I use this for my \<insert whatever here\>? **YES**
 - Can I take code from this and use it in my application? **YES, but attribution is required**
 - Can I modify this program and re-release it? **YES**
 - Is it possible to add more stats to it? **YES** Read up on it [HERE](https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offensive_Game_State_Integration)
