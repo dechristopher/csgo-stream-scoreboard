@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=640">
+
+    <link rel="stylesheet" href="stylesheets/core.css" media="screen">
+    <link rel="stylesheet" href="stylesheets/mobile.css" media="handheld, only screen and (max-device-width:640px)">
+    <link rel="stylesheet" href="stylesheets/github-light.css">
+
+    <script type="text/javascript" src="javascripts/modernizr.js"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script type="text/javascript" src="javascripts/headsmart.min.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function () {
+        $('#main_content').headsmart()
+      })
+    </script>
+    <title>Csgo-stream-scoreboard by dechristopher</title>
+  </head>
+
+  <body>
+    <a id="forkme_banner" href="https://github.com/dechristopher/csgo-stream-scoreboard">View on GitHub</a>
+    <div class="shell">
+
+      <header>
+        <span class="ribbon-outer">
+          <span class="ribbon-inner">
+            <h1>Csgo-stream-scoreboard</h1>
+            <h2>A live updating scoreboard for CS:GO streamers to show onscreen that shows kills, deaths, and assists. Uses CS:GO&#39;s built-in Game-state Integration.</h2>
+          </span>
+          <span class="left-tail"></span>
+          <span class="right-tail"></span>
+        </span>
+      </header>
+
+      <section id="downloads">
+        <span class="inner">
+          <a href="https://github.com/dechristopher/csgo-stream-scoreboard/zipball/master" class="zip"><em>download</em> .ZIP</a><a href="https://github.com/dechristopher/csgo-stream-scoreboard/tarball/master" class="tgz"><em>download</em> .TGZ</a>
+        </span>
+      </section>
+
+
+      <span class="banner-fix"></span>
+
+
+      <section id="main_content">
+        <h4>
+<a id="about" class="anchor" href="#about" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>About:</h4>
+
+<p>A live updating scoreboard for CS:GO streamers to show onscreen that shows kills, deaths, and assists. Uses CS:GO's built-in Game-state Integration. The program is highly customizable and extensible with the proper finesse and patience.</p>
+
+<p><img src="https://cdn.kiir.us/scoreboard.png" alt="Alt text"></p>
+
+<p>As seen in the picture above, the format of the displayed stats follows this diagram:</p>
+
+<pre><code>K [kills in current round] / [total kills in match] D [total deaths in match] A [total assists in match]
+</code></pre>
+
+<h4>
+<a id="acquisition" class="anchor" href="#acquisition" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Acquisition:</h4>
+
+<p>Compiled binaries can be found in the releases section above or through this link: <a href="https://github.com/dechristopher/csgo-stream-scoreboard/releases">Releases Section</a></p>
+
+<h4>
+<a id="usage-instructions" class="anchor" href="#usage-instructions" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Usage instructions:</h4>
+
+<ul>
+<li>Either compile or download a pre-compiled release of the program.</li>
+<li>(If downloaded, extract the executable and the settings file to a folder anywhere on your computer)</li>
+<li>Take the gamestate_integration_kda.cfg file either from this repository or the downloaded release.zip and place it in your CS:GO install folder in the /csgo/cfg folder (<strong>DON'T</strong> modify this file unless you know what you're doing)</li>
+<li>Find your SteamID 32 from <a href="http://steamid.co">http://steamid.co</a> or wherever else and paste it into your settings.txt in place of &lt;SteamID&gt;</li>
+<li>Run the program and you should get no error messages. Hop ingame for some testing.</li>
+<li>If improperly configured, the program will tell you what's wrong in a pop-up window. Make sure your settings.txt follows the format as shown below.</li>
+</ul>
+
+<h4>
+<a id="configuration" class="anchor" href="#configuration" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Configuration:</h4>
+
+<p>Some basic tweaking can be done in the settings.txt file to alter the appearance of your scoreboard. This is useful if you want to change the color of the text or make the background of the scoreboard easy to chroma-key. The default settings.txt file looks like the following:</p>
+
+<pre><code>&lt;SteamID&gt; 64 64 64 0 192 0
+</code></pre>
+
+<p>The format of the file consists of the following</p>
+
+<pre><code>            BG Color     Score Color
+&lt;SteamID&gt; [&lt;R&gt; &lt;G&gt; &lt;B&gt;] [&lt;R&gt; &lt;G&gt; &lt;B&gt;]
+</code></pre>
+
+<p>All values in the file are separated by spaces.</p>
+
+<p>For help with the RGB values, visit <a href="http://www.rapidtables.com/web/color/RGB_Color.htm">THIS SITE</a></p>
+
+<h4>
+<a id="faq" class="anchor" href="#faq" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>FAQ:</h4>
+
+<ul>
+<li>Can I use this for my &lt;insert whatever here&gt;? <strong>YES</strong>
+</li>
+<li>Can I take code from this and use it in my application? <strong>YES, but attribution is required</strong>
+</li>
+<li>Can I modify this program and re-release it? <strong>YES</strong>
+</li>
+<li>Is it possible to add more stats to it? <strong>YES</strong> Read up on it <a href="https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offensive_Game_State_Integration">HERE</a>
+</li>
+</ul>
+      </section>
+
+      <footer>
+        <span class="ribbon-outer">
+          <span class="ribbon-inner">
+            <p>this project by <a href="https://github.com/dechristopher">dechristopher</a> can be found on <a href="https://github.com/dechristopher/csgo-stream-scoreboard">GitHub</a></p>
+          </span>
+          <span class="left-tail"></span>
+          <span class="right-tail"></span>
+        </span>
+        <p>Generated with <a href="https://pages.github.com">GitHub Pages</a> using Merlot</p>
+        <span class="octocat"></span>
+      </footer>
+
+    </div>
+
+    
+  </body>
+</html>
